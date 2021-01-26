@@ -1,0 +1,24 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "express.js applictaion",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussTracy/Zookeeper.git"
+  },
+  "author": "Russ Tracy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussTracy/Zookeeper/issues"
+  },
+  "homepage": "https://github.com/RussTracy/Zookeeper#readme"
+}
