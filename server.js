@@ -1,6 +1,7 @@
 const express = require('express');
 const { animals } = require('./data/animals.json');
-const PORT = process.env.PORT || 3001
+// Set Port to 80 for published 3001 for local host
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 
