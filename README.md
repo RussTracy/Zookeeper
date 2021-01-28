@@ -6,7 +6,7 @@ This is an Express.js application that will allow a user to search for and add a
 
 # Installation
 
-Clone the repositry from GitHub and open using Visual Studio Code.
+Clone the repository from GitHub and open using Visual Studio Code.
 
 # Usage 
 
